@@ -28,5 +28,17 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Giant Panda",
+    "scientificName": "Ailuropoda melanoleuca",
+    "habitat": "Mountain forests of central China",
+    "description": "A distinctive black and white bear that feeds almost exclusively on bamboo and is an icon of wildlife conservation."
+  },
+  {
+    "commonName": "Arctic Fox",
+    "scientificName": "Vulpes lagopus",
+    "habitat": "Arctic tundra and coastal areas",
+    "description": "A small fox with thick fur that changes color seasonally, adapted to survive in some of the coldest environments on Earth."
   }
 ]
